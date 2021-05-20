@@ -1,0 +1,4 @@
+You should learn how to use docker container.
+Then, start with link below.
+https://hub.docker.com/r/jupyter/base-notebook/tags/?page=1&ordering=last_updated
+We will develop with jupyter notebook or jupyter lab.
