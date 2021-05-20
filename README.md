@@ -1,0 +1,2 @@
+# Terra_Python_SDK_apps
+Terra_Python_SDK_simple_application_real_use_with_wallet
